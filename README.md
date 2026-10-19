@@ -23,6 +23,12 @@ Built with Python, CustomTkinter, SQLite and ReportLab.
 ### Invoice History
 ![Invoice History](screenshots/invoices.png)
 
+### Thermal Receipt (80mm)
+![Thermal Receipt](screenshots/receipt.png)
+
+### A4 Invoice
+![A4 Invoice](screenshots/a4-invoice.png)
+
 ## Run from source
     pip install -r requirements.txt
     python main.py
