@@ -12,6 +12,17 @@ Built with Python, CustomTkinter, SQLite and ReportLab.
 - Invoice history with reprint and one-click database backup
 - Automatic database upgrades between versions
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### New Sale
+![New Sale](screenshots/new-sale.png)
+
+### Invoice History
+![Invoice History](screenshots/invoices.png)
+
 ## Run from source
     pip install -r requirements.txt
     python main.py
